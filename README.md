@@ -11,4 +11,4 @@
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api username=yamangokhan&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yamangokhan)](https://github.com/yamangokhan/github-readme-stats)
