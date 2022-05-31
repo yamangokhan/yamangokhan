@@ -15,3 +15,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamangokhan&show_icons=true&theme=chartreuse-dark)](https://github.com/yamangokhan/github-readme-stats)
 
+![Adsız](https://user-images.githubusercontent.com/101811316/171292606-4b9796b5-7934-437c-8bd1-af7888ced9e9.png)
