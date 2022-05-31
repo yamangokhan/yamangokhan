@@ -14,5 +14,5 @@
 
 
 ![Gokhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yamangokhan&show_icons=true&theme=chartreuse-dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamangokhan)](https://github.com/yamangokhan/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamangokhanshow_icons=true&theme=chartreuse-dark)](https://github.com/yamangokhan/github-readme-stats)
+
