@@ -15,4 +15,4 @@
 
 ![Gokhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yamangokhan&show_icons=true&theme=chartreuse-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamangokhan)](https://github.com/yamangokhan/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yamangokhan&repo=github-readme-stats)](https://github.com/yamangokhan/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yamangokhan)](https://github.com/yamangokhan/github-readme-stats)
