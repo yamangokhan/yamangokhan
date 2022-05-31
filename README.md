@@ -8,14 +8,10 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
 ![giphy](https://user-images.githubusercontent.com/101811316/171291603-f58be2c2-1877-40b8-9d5c-adc5e674d62f.gif)
 
-
-
 ![Gokhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yamangokhan&show_icons=true&theme=chartreuse-dark)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamangokhan&show_icons=true&theme=chartreuse-dark)](https://github.com/yamangokhan/github-readme-stats)
 
