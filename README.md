@@ -11,6 +11,7 @@
 - ⚡ Fun fact: ...
 -->
 
-[![Gokhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yamangokhan)](https://github.com/yamangokhan/github-readme-stats)
 
 ![Gokhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yamangokhan&show_icons=true)
+
+![Gokhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yamangokhan&show_icons=true&theme=radical)
