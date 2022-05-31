@@ -16,4 +16,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=yamangokhan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![Snake animation](https://github.com/{{yamangokhan}}/{{yamangokhan}}/blob/output/github-contribution-grid-snake.svg)
