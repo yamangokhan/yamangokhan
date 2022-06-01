@@ -1,6 +1,5 @@
 ### Hi there I'm Gokhan 👋
-
-
+![xero-code (1)](https://user-images.githubusercontent.com/101811316/171446060-015f047d-a99f-4195-9bc5-a2b97a288dd3.gif)
 - 🔭 I’m currently working on my company
 - 🌱 I’m currently learning Selenium, Cucumber.
 - 👯 I’m looking to collaborate on Youtube
@@ -15,5 +14,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=yamangokhan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![xero-code (1)](https://user-images.githubusercontent.com/101811316/171446060-015f047d-a99f-4195-9bc5-a2b97a288dd3.gif)
+
 
