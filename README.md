@@ -17,4 +17,5 @@
 [![](https://visitcount.itsvg.in/api?id=yamangokhan&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ![snake gif](https://github.com/yamangokhan/yamangokhan/blob/output/github-contribution-grid-snake.gif)
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
