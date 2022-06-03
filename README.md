@@ -11,7 +11,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yamangokhan&theme=chartreuse-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yamangokhan&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 ---
-[![](https://visitcount.itsvg.in/api?id=yamangokhan&icon=0&color=0)](https://visitcount.itsvg.in) https://starchart.cc/{yamangokhan}/{repo}.svg
+[![](https://visitcount.itsvg.in/api?id=yamangokhan&icon=0&color=0)](https://visitcount.itsvg.in) [![](https://starchart.cc/{yamangokhan}/{repo}.svg)
 
 ![xero-code (1)](https://user-images.githubusercontent.com/101811316/171446060-015f047d-a99f-4195-9bc5-a2b97a288dd3.gif)
 
