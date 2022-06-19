@@ -1,6 +1,6 @@
 ### Hi there I'm Gokhan 👋
 - 🔭 I’m currently working on my company
-- 🌱 I’m currently learning Selenium, Cucumber, Postman, Jira
+- 🌱 I’m currently learning Selenium, Cucumber, SQL, Postman, Jira, API Testing..
 - 👯 I’m looking to collaborate on Youtube
 - 📫 How to reach me: yamangokhanyaman@gmail.com 
 - ![Snake animation](https://github.com/yamangokhan/yamangokhan/blob/output/github-contribution-grid-snake.svg)
