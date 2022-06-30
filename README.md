@@ -1,5 +1,11 @@
 ### Hi there I'm Gokhan 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Filipino+Software+Engineer;Open-Source+Developer+Advocate;Cybersecurity+Researcher;and+Technopreneur!;Nice+to+meet+you...)](https://git.io/typing-svg)
+
+AQ Automation Engineer, opensource developer and advocate, cybersecurity researcher, community builder, web3 enthusiast, and technopreneur from the Philippines.
+
+
+
 - 🔭 I’m currently working on my company
 - 🌱 I’m currently learning Selenium, Cucumber, SQL, Postman, Jira, API Testing..
 - 👯 I’m looking to collaborate on Youtube
