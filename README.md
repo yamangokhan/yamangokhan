@@ -1,11 +1,9 @@
-### Hi everbody I'm Gokhan 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Hi+everybody+I'm+GOKHAN;AQ+Automation+Engineer;Software+Test+Automation+Engineer;Greeting+From+Turkey;and+Technopreneur!;Nice+to+meet+you...)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Hi+everybody+I'm+GOKHAN+👋;AQ+Automation+Engineer;Software+Test+Automation+Engineer;Greeting+From+Turkey;Nice+to+meet+you...)](https://git.io/typing-svg)
 
 
 - 🔭 I’m currently working on my company
-- 🌱 I’m currently learning Selenium, Cucumber, SQL, Postman, Jira, API Testing..
-- 👯 I’m looking to collaborate on Youtube
+- 🌱 I’m currently learning Selenium, Cucumber, SQL, Postman, Jira, API Testing,Database Testing,Jenkins,Jmeter..
 - 📫 How to reach me: yamangokhanyaman@gmail.com 
 - ![Snake animation](https://github.com/yamangokhan/yamangokhan/blob/output/github-contribution-grid-snake.svg)
 - 
