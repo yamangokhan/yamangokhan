@@ -42,7 +42,7 @@
 [![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/vmt7lpqdatuelp2chw7ur2p2l)
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=yamangokhan&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=yamangokhan&theme=chartreuse-tokyonight=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yamangokhan&theme=chartreuse-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yamangokhan&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 ---
