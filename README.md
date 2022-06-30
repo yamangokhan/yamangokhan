@@ -15,13 +15,4 @@
 
 ![xero-code (1)](https://user-images.githubusercontent.com/101811316/171446060-015f047d-a99f-4195-9bc5-a2b97a288dd3.gif)
 
-github: # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]
-patreon: # Replace with a single Patreon username
-open_collective: # Replace with a single Open Collective username
-ko_fi: arturssmirnovs
-tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel
-community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry
-liberapay: # Replace with a single Liberapay username
-issuehunt: # Replace with a single IssueHunt username
-otechie: # Replace with a single Otechie username
-custom: ['https://www.buymeacoffee.com/arturssmirnovs', 'https://www.paypal.com/paypalme/arturs911']
+
