@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=#EA0101&size=24&width=500&lines=Hi+everybody+I'm+GOKHAN+👋;AQ+Automation+Engineer;Software+Test+Automation+Engineer;Greeting+From+Turkey;Nice+to+meet+you...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=##01EA47&size=24&width=500&lines=Hi+everybody+I'm+GOKHAN+👋;AQ+Automation+Engineer;Software+Test+Automation+Engineer;Greeting+From+Turkey;Nice+to+meet+you...)](https://git.io/typing-svg)
 
 
 - 🔭 I’m currently working on my company
