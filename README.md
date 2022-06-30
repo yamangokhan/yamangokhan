@@ -1,7 +1,7 @@
 ### Hi there I'm Gokhan 👋
 <!-- markdownlint-disable MD033 MD041-->
 <p align="center">
-  <h3 align="center">⌨️ Readme Typing SVG</h3>
+  <h3 align="center">⌨️ Thank you for your visiting :) </h3>
 </p>
 
 <p align="center">
