@@ -8,7 +8,7 @@
 
 <table align="right">
  <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README.md">:us: English</a></td></tr>
- <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README-pt-br.md">:brazil: Português</a></td></tr>
+ <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README-pt-br.md">:brazil: Turkısh</a></td></tr>
 </table>
 
 <!-- markdownlint-enable MD033 -->
