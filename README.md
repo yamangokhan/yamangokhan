@@ -37,3 +37,5 @@
 [![](https://visitcount.itsvg.in/api?id=yamangokhan&icon=0&color=0)](https://visitcount.itsvg.in) 
 
 https://models.readyplayer.me/675feded34517bc52cdff71b.glb
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Hello+World!;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
+
