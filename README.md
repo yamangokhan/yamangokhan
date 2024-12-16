@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Selenium, Cucumber, SQL, Postman, Jira, API Testing,Database Testing,Jenkins,Jmeter..
 - 📫 How to reach me: yamangokhanyaman@gmail.com 
   
-<h2>:bulb: Languages & Frameworks</h2>
+<h2 align="center">:bulb: Languages & Frameworks</h2>
 <code><img title="Java" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></code>
 <code><img title="HTML 5" alt="html5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
 <code><img title="JavaScript" alt="javascript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
