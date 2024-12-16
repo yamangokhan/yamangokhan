@@ -36,5 +36,14 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=yamangokhan&icon=0&color=0)](https://visitcount.itsvg.in) 
 
-![snake gif](https://github.com/yamangokhan/yamangokhan/blob/output/github-contribution-grid-snake.gif)
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br/>
+  <img src="https://raw.githubusercontent.com/yamangokhan/yamangokhan/output/snake.svg" alt="Snake animation" />
+  <br/><br/><br/>
+</div>
+
+<hr/>
 
