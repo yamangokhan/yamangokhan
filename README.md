@@ -35,3 +35,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yamangokhan&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 ---
 [![](https://visitcount.itsvg.in/api?id=yamangokhan&icon=0&color=0)](https://visitcount.itsvg.in) 
+
+![Snake animation](https://github.com/AhmetDemir/AhmetDemir/blob/output/snake.svg)
+
