@@ -40,7 +40,6 @@
 <br/><br/><br/>
 </div>
 
-<hr/>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
