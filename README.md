@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=01eaea&size=24&width=500&lines=Hi+everybody+I'm+GOKHAN+👋;QA+Automation+Engineer;Software+Test+Automation+Engineer;Greeting+From+Turkey;Nice+to+meet+you...)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on my company
+- 🔭 I’m currently working as a Software Automation Test Engineer.
 - 🌱 I’m currently learning Selenium, Cucumber, SQL, Postman, Jira, API Testing,Database Testing,Jenkins,Jmeter..
 - 📫 How to reach me: yamangokhanyaman@gmail.com 
   
