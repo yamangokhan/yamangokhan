@@ -1,9 +1,9 @@
-name: Generate Snake
+name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */6 * * *" # every 6 hours
-  workflow_dispatch: # Manually trigger the action
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
@@ -11,8 +11,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-
-      # Generates the snake animation
       - uses: Platane/snk@master
         id: snake-gif
         with:
@@ -20,18 +18,6 @@ jobs:
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      # Show the status of the build
-      - run: git status
-
-      # Push the changes to the 'output' branch
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: output  # Push to 'output' branch
-          force: true
-
-      # Deploy to GitHub Pages from 'output' branch
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
