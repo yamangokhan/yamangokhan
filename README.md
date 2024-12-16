@@ -36,5 +36,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=yamangokhan&icon=0&color=0)](https://visitcount.itsvg.in) 
 
-https://models.readyplayer.me/675feded34517bc52cdff71b.glb
+![3D Avatar](https://github.com/username/repository/blob/main/assets/3d-avatar.png)
 
