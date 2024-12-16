@@ -35,6 +35,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yamangokhan&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 ---
 [![](https://visitcount.itsvg.in/api?id=yamangokhan&icon=0&color=0)](https://visitcount.itsvg.in) 
-
-![3D Avatar](https://github.com/username/repository/blob/main/assets/3d-avatar.png)
-
