@@ -37,5 +37,4 @@
 [![](https://visitcount.itsvg.in/api?id=yamangokhan&icon=0&color=0)](https://visitcount.itsvg.in) 
 
 https://models.readyplayer.me/675feded34517bc52cdff71b.glb
-![Profile Views](https://komarev.com/ghpvc/?username=AhmetDemir&color=blue)
 
