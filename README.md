@@ -13,7 +13,7 @@
 <code><img title="NodeJS" alt="node js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
 </br></br>
 
-<h2>:hammer_and_wrench: Tools I use</h2>
+<h2 align="center">:hammer_and_wrench: Tools I use</h2>
 <code> <img title="npm" alt="npm" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /></code>
 <code><img title="Ubuntu" alt="ubuntu" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /></code>
 <code><img title="Git" alt="git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
