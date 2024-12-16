@@ -26,6 +26,6 @@ jobs:
       - name: Push Snake Animation
         uses: crazy-max/ghaction-github-pages@v2.6.0
         with:
-          target_branch: output
+          target_branch: master
           build_dir: dist
 
