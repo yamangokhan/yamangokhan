@@ -12,16 +12,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout the repository
+      - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate Snake Game from GitHub Contributions
+      - name: Generate Snake Game
         uses: Platane/snk@v2
         with:
-          github_user_name: yamangokhan # Kullanıcı adınızı buraya yazın
+          github_user_name: yamangokhan
 
-      - name: Push Snake Animation to GitHub
+      - name: Push Snake Animation
         uses: crazy-max/ghaction-github-pages@v2.6.0
         with:
           target_branch: output
           build_dir: dist
+
