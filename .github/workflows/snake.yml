@@ -19,7 +19,6 @@ jobs:
         uses: Platane/snk@v2
         with:
           github_user_name: yamangokhan # Kullanıcı adınızı buraya yazın
-          outputs: dist/snake.svg
 
       - name: Push Snake Animation to GitHub
         uses: crazy-max/ghaction-github-pages@v2.6.0
