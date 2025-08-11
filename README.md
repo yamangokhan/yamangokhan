@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as a Software Automation Test Engineer.
 - 🌱 I’m currently learning Selenium, Cucumber, SQL, Postman, Jira, API Testing,Database Testing,Jenkins,Jmeter..
-- 📫 How to reach me: yamangokhanyaman@gmail.com 
+- 📫 How to reach me:gokhan.yaman@birtech.com
   </div>
 
   
