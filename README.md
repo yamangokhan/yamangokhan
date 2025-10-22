@@ -1,12 +1,13 @@
 <!-- Gökhan YAMAN - GitHub Profile README -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=4500&pause=1000&color=00FFFF&background=00000000&center=true&vCenter=true&width=800&height=60&lines=👋+Hi!+I'm+Gökhan+YAMAN;💻+Software+Test+Automation+Engineer;🚀+Crafting+Tests+with+Selenium,+Appium,+Postman;🌐+Java,+WebdriverIO,+TypeScript,+Cucumber;✨+Turning+Automation+into+Art." alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=4500&pause=1000&color=00F9FF&background=00000000&center=true&vCenter=true&width=800&height=60&lines=👋+Hi!+I'm+Gökhan+YAMAN;💻+Software+Test+Automation+Engineer;🚀+Crafting+Tests+with+Selenium,+Appium,+Postman;🌐+Java,+WebdriverIO,+TypeScript,+Cucumber;✨+Turning+Automation+into+Art." alt="Typing Animation" />
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:0066ff&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:0066ff&height=100&section=footer&reversal=true"/>
 </p>
+
 
 
 ---
