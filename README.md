@@ -1,7 +1,7 @@
 <!-- Gökhan YAMAN - GitHub Profile README -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&color=0FFAF4&center=true&vCenter=true&lines=👋+Hi!+I'm+Gökhan+YAMAN;💻+Software+Test+Automation+Engineer;🚀+Selenium+|+Appium+|+Postman;🌐+Java+|+WebdriverIO+|+TypeScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&color=0FFAF4&center=true&vCenter=true&lines=👋+Hi!+I'm + Gökhan + YAMAN ;💻+ Software + Test + Automation + Engineer;🚀 + Selenium + | + Appium + | + Postman;🌐+Java+|+WebdriverIO+|+TypeScript" alt="Typing SVG" />
 </h1>
 
 ---
