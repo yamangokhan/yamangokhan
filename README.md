@@ -1,46 +1,47 @@
-[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)]([https://www.adamalston.com/](https://gokhanyaman.netlify.app/))<!-- If you want the template for my gif, email me! -->
+# Merhaba! Ben Gökhan YAMAN 🚀
 
-### Languages
+<p align="left">
+  <a href="https://github.com/gokhanyaman">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Software+Test+Automation+Engineer;Selenium%2C+Appium+ve+Postman+Ustas%C4%B1;Java%2C+Javascript%2C+TypeScript+ile+Kodluyorum;Otomayon+Hayat%C4%B1m%C4%B1n+Merkezinde" alt="Typing SVG" />
+  </a>
+</p>
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/LmN8NxGOyIioo/giphy.gif">
 
-### Technologies
+---
 
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+### Hakkımda
+Software Test Automation Engineer olarak yazılım kalitesini en üst seviyeye taşımaya odaklanmış bir profesyonelim. Güçlü otomasyon stratejileri geliştirerek hızlı, güvenilir ve sürdürülebilir test süreçleri oluşturuyorum.
 
-### Full Stack Projects
+### 🛠️ Kullandığım Teknolojiler ve Araçlar
+| Test Otomasyonu | Programlama Dilleri | Test Çerçeveleri & Kütüphaneler | Sürekli Entegrasyon & Diğer |
+| :---: | :---: | :---: | :---: |
+| <img src="https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/> | <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white"/> | <img src="https://img.shields.io/badge/-Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white"/> | <img src="https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/> |
+| <img src="https://img.shields.io/badge/-Appium-D0021B?style=for-the-badge&logo=appium&logoColor=white"/> | <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> | <img src="https://img.shields.io/badge/-Cucumber-66B032?style=for-the-badge&logo=cucumber&logoColor=white"/> | <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> |
+| <img src="https://img.shields.io/badge/-WebdriverIO-F53860?style=for-the-badge&logo=webdriverio&logoColor=white"/> | <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> | <img src="https://img.shields.io/badge/-TestNG-C83110?style=for-the-badge&logo=testng&logoColor=white"/> | <img src="https://img.shields.io/badge/-API%20Testing-blueviolet?style=for-the-badge&logo=apitest&logoColor=white"/> |
+| <img src="https://img.shields.io/badge/-API%20Testleri-orange?style=for-the-badge"/> | | <img src="https://img.shields.io/badge/-JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white"/> | |
 
-[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/adamalston/v2)
-[![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/adamalston/COVID-19-Dashboard)
-[![](https://img.shields.io/badge/-📝%20Summarizer-000)](https://github.com/adamalston/Summarizer)
-[![](https://img.shields.io/badge/-🔬%20Overwatch-000)](https://github.com/adamalston/overwatch)
-[![](https://img.shields.io/badge/-🛰%20KubeSat-000)](https://github.com/adamalston/kubesat)
-[![](https://img.shields.io/badge/-🔊%20Voice%20Poker-000)](https://github.com/adamalston/Poker)
-[![](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000)](https://github.com/adamalston/PokemonGo-Map)
+---
 
-### Cybersecurity Projects
+### 📈 GitHub İstatistiklerim
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gokhanyaman&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Gökhan'ın GitHub İstatistikleri" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokhanyaman&layout=compact&theme=dark" alt="Gökhan'ın En Çok Kullanılan Dilleri" />
+</p>
 
-[![](https://img.shields.io/badge/-🩸%20Heartbleed-000)](https://github.com/adamalston/Heartbleed)
-[![](https://img.shields.io/badge/-🌊%20SYN%20Flood-000)](https://github.com/adamalston/SYN-Flood)
-[![](https://img.shields.io/badge/-🗂%20Packet%20Sniffing%20%26%20Spoofing-000)](https://github.com/adamalston/Packet-Sniffing-and-Spoofing)
-[![](https://img.shields.io/badge/-💉%20SQL%20Injection-000)](https://github.com/adamalston/SQL-Injection)
-[![](https://img.shields.io/badge/-🛡%20Spectre%20%26%20Meltdown-000)](https://github.com/adamalston/Meltdown-Spectre)
-[![](https://img.shields.io/badge/-🌐%20Network%20Tools-000)](https://github.com/adamalston/Network-Tools)
+### 🔥 Katkı Serisi
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokhanyaman&theme=dark" alt="GitHub Streak" />
+</p>
 
-<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+---
+
+### Bana Ulaşın
+<p align="center">
+  <a href="Sizin_LinkedIn_URL_niz" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="Sizin_Twitter_URL_niz" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+</p>
