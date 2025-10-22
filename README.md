@@ -1,49 +1,57 @@
-# Merhaba! Ben Gökhan YAMAN 🚀
+<!-- Gökhan YAMAN - GitHub Profile README -->
 
-<p align="left">
-  <a href="https://github.com/gokhanyaman">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=450&lines=Software+Test+Automation+Engineer;Test+Otomasyonu+Stratejisti;Yaz%C4%B1l%C4%B1m+Kalitesi+Garanti+Alt%C4%B1nda!+QA+G%C3%BCc%C3%BC" alt="Typing SVG" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&color=0FFAF4&center=true&vCenter=true&lines=👋+Hi!+I'm+Gökhan+YAMAN;💻+Software+Test+Automation+Engineer;🚀+Selenium+|+Appium+|+Postman;🌐+Java+|+WebdriverIO+|+TypeScript" alt="Typing SVG" />
+</h1>
+
+---
+
+### 💫 About Me:
+🎯 **Software Test Automation Engineer** passionate about building scalable, efficient, and reliable test frameworks.  
+💡 Experienced in both **UI** and **API** test automation.  
+🔍 I love exploring **new tools and frameworks** that improve test efficiency and CI/CD pipelines.
+
+---
+
+### 🧠 Tech Stack:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,selenium,appium,postman,jenkins,webdriverio,mocha,cucumber,testng,junit,git,github,vscode" />
+</p>
+
+---
+
+### 📈 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gokhanyaman&show_icons=true&theme=radical" alt="Gökhan's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=gokhanyaman&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokhanyaman&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 🐍 Contribution Snake:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gokhanyaman/gokhanyaman/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+### 🔗 Connect with Me:
+<p align="center">
+  <a href="https://www.linkedin.com/in/gokhanyaman" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:gokhanyaman@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
-## Software Test Automation Engineer
+---
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/Q81N4g5y61m6c9gX18/giphy.gif">
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTV0N2Q0ZjI5eTY5MXVkb2xrb2Q3NjA5cm0xYXR4YnNpMGJ0bDR1ZyZlcD12MV9pbnRlcm5hbF9naWYmY3Q9Zw/3oKIPnAiaS8EHzUjKw/giphy.gif">
-
-### 🏆 GitHub Başarımlarım (Trophy)
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gokhanyaman&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophy" />
-</p>
-
-# .github/workflows/snake.yml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *" # Her gün gece yarısı çalışır
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: yamangokhan # KENDİ KULLANICI ADINIZI YAZIN
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif
-            dist/solarized.gif
-          # SVG'nin README.md'ye commit edilmesi
-          commit_on_success: true
-          git_branch: main
-          repo_name: yamangokhan # KENDİ REPO ADINIZI YAZIN (Kullanıcı Adınız)
-
-          ### 📈 GitHub İstatistiklerim
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gokhanyaman&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub İstatistikleri" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokhanyaman&layout=compact&theme=dark" alt="En Çok Kullanılan Diller" />
-</p>
+✨ *“Quality is not an act, it is a habit.” – Aristotle* ✨
