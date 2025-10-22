@@ -31,7 +31,7 @@ jobs:
       - uses: actions/checkout@v3
       - uses: Platane/snk@v3
         with:
-          github_user_name: gokhanyaman # KENDİ KULLANICI ADINIZI YAZIN
+          github_user_name: yamangokhan # KENDİ KULLANICI ADINIZI YAZIN
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
