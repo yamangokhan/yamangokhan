@@ -1,0 +1,27 @@
+name: Generate contribution snake
+
+# Manuel tetikleme ve günlük/saati ayarlamak için örnek:
+on:
+  workflow_dispatch:   # manuel çalıştırma
+  schedule:
+    - cron: "0 0 * * *" # her gün 00:00 UTC (isteğe göre değiştir)
+
+permissions:
+  contents: write   # output branch'e push etmek için write izni gerekli
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate snake animation (SVG)
+        uses: Platane/snk@v3
+        with:
+          # repo sahibi kullanıcısını otomatik alır:
+          github_user_name: yamangokhan
+          output: output/github-contribution-grid-snake.svg
+          # opsiyonel: tema = github, github-dark veya github-light
+          theme: github
+          # format: svg veya gif
+          format: svg
+      # snk action kendisi output branch'e push eder (ayarlara göre)
